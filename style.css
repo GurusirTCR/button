@@ -4,14 +4,14 @@ body{
     justify-content: center;
     align-items: center;
 }
-.contener{
+.container{
    
     background-color:rgb(75, 138, 255);
     padding: 20px;
     text-align: center;
-    border: 2px solid rgb(71, 136, 221);
+    border: 2px solid rgb(64, 128, 211);
 }
-.main-contener{
+.main-container{
     width: 180px;
     height: 81px;
     text-align: center;
@@ -19,13 +19,13 @@ body{
     justify-content: center;
     border: 2px solid rgb(3, 75, 182);
 }
-.checked {
+.star {
     color: rgb(255, 94, 0);
   }
-  .check{
+  .btn{
         padding: 10px;
         border-radius:5px;
-        background: repeating-linear-gradient(#eff2f3, #e4e6e7 49.9%, #bebcbc 50.1%, #bebcbc 100%);
+        background: repeating-linear-gradient(#e4e6e7, #e4e6e7 51.0%, #bebcbc 50.0%, #bebcbc 100%);
         color: black;
         font-family: Aria;
         font-weight: 550;
