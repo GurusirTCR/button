@@ -1,21 +1,36 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
 .contener{
-    width: 150px;
-    height: 30px;
-    background-color:rgb(103, 103, 231);
+   
+    background-color:rgb(75, 138, 255);
     padding: 20px;
     text-align: center;
-    border: 2px solid;
+    border: 2px solid rgb(71, 136, 221);
+}
+.main-contener{
+    width: 180px;
+    height: 81px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid rgb(3, 75, 182);
 }
 .checked {
-    color: orange;
+    color: rgb(255, 94, 0);
   }
   .check{
-      padding: 10px;
-        border-radius:10px;
-        background: repeating-linear-gradient(#e4e6e7, #e4e6e7 49.9%, #acafb1 50.1%, #acafb1 100%);
+        padding: 10px;
+        border-radius:5px;
+        background: repeating-linear-gradient(#eff2f3, #e4e6e7 49.9%, #bebcbc 50.1%, #bebcbc 100%);
         color: black;
+        font-family: Aria;
+        font-weight: 550;
         border: 1px solid #BFBFBF;
-        box-shadow: 0px 0px 10px #aaaaaa;
+        box-shadow: 2px 2px 10px #131212;
         cursor: pointer;
     }
 
