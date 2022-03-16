@@ -6,7 +6,7 @@ body{
 }
 .container{
    
-    background-color:#39cef7;
+    background-color:#00ccff;
     padding: 20px;
     text-align: center;
     border: 2px solid #0ce0f7;
@@ -20,12 +20,12 @@ body{
     border: 2px solid rgb(3, 75, 182);
 }
 .star {
-    color: rgb(255, 94, 0);
+    color: #ffa500;
   }
   .btn{
         padding: 10px;
         border-radius:3px;
-        background: repeating-linear-gradient(#e4e6e7, #e4e6e7 51.0%, #bebcbc 50.0%, #bebcbc 100%);
+        background: repeating-linear-gradient(#f1f1f1, #f1f1f1 51.0%, #d7d7d7 50.0%, #d7d7d7 100%);
         color: black;
         font-family: Aria;
         font-weight: 550;
