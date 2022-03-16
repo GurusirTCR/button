@@ -9,7 +9,7 @@ body{
     background-color:#00ccff;
     padding: 20px;
     text-align: center;
-    border: 2px solid #0ce0f7;
+    border: 2px solid #80e6ff;
 }
 .main-container{
     width: 180px;
@@ -17,7 +17,7 @@ body{
     text-align: center;
     align-items: center;
     justify-content: center;
-    border: 2px solid rgb(3, 75, 182);
+    border: 2px solid #3399cc;
 }
 .star {
     color: #ffa500;
