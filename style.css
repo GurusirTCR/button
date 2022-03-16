@@ -24,7 +24,7 @@ body{
   }
   .btn{
         padding: 10px;
-        border-radius:5px;
+        border-radius:3px;
         background: repeating-linear-gradient(#e4e6e7, #e4e6e7 51.0%, #bebcbc 50.0%, #bebcbc 100%);
         color: black;
         font-family: Aria;
